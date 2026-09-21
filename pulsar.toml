@@ -1,3 +1,5 @@
+#AA8130
+
 # ============================================================
 # Pulsar — zsh-patina
 # ============================================================
@@ -51,73 +53,73 @@
 # ------------------------------------------------------------
 
 
-"entity.name.function" = "#ff996a"
-"entity.name.function.shell" = "#ff996a"
-"entity.name.function.alias.shell" = "#ffa552"
-"entity.name.function.coproc.shell" = "#ff996a"
+"entity.name.function" = "#FFA77F"
+"entity.name.function.shell" = "#FFA77F"
+"entity.name.function.alias.shell" = "#FFBC7F"
+"entity.name.function.coproc.shell" = "#FFA77F"
 
-"variable.function" = "#ff996a"
-"variable.function.shell" = "#ff996a"
+"variable.function" = "#FFA77F"
+"variable.function.shell" = "#FFA77F"
 
-"meta.function" = "#ff996a"
-"meta.function-call" = "#ff996a"
-"meta.function-call.shell" = "#ff996a"
-"meta.function-call.arguments.shell" = "#e8dcc8"
-"meta.function.coproc.shell" = "#ff996a"
+"meta.function" = "#FFA77F"
+"meta.function-call" = "#FFA77F"
+"meta.function-call.shell" = "#FFA77F"
+"meta.function-call.arguments.shell" = "#E8BB74"
+"meta.function.coproc.shell" = "#FFA77F"
 
 # ------------------------------------------------------------
 # Builtins / precommands
 # ------------------------------------------------------------
 
-"keyword.builtin" = "#AA8130"
-"keyword.builtin.builtin.shell" = "#AA8130"
-"keyword.builtin.command.shell" = "#AA8130"
-"keyword.builtin.dash.shell" = "#AA8130"
-"keyword.builtin.exec.shell" = "#AA8130"
-"keyword.builtin.noglob.shell" = "#AA8130"
+"keyword.builtin" = "#B29F7B"
+"keyword.builtin.builtin.shell" = "#B29F7B"
+"keyword.builtin.command.shell" = "#B29F7B"
+"keyword.builtin.dash.shell" = "#B29F7B"
+"keyword.builtin.exec.shell" = "#B29F7B"
+"keyword.builtin.noglob.shell" = "#B29F7B"
 
-"precommand.builtin.builtin.shell" = "#AA8130"
-"precommand.builtin.command.shell" = "#AA8130"
-"precommand.builtin.dash.shell" = "#AA8130"
-"precommand.builtin.exec.shell" = "#AA8130"
-"precommand.builtin.noglob.shell" = "#AA8130"
+"precommand.builtin.builtin.shell" = "#B29F7B"
+"precommand.builtin.command.shell" = "#B29F7B"
+"precommand.builtin.dash.shell" = "#B29F7B"
+"precommand.builtin.exec.shell" = "#B29F7B"
+"precommand.builtin.noglob.shell" = "#B29F7B"
 
-"keyword.other.coproc.shell" = "#AA8130"
+"keyword.other.coproc.shell" = "#B29F7B"
 
 # ------------------------------------------------------------
 # Control flow
 # ------------------------------------------------------------
 
-"keyword.control" = "#EE8800"
+"keyword.control" = "#EEC082"
 
-"keyword.control.if.begin.shell" = "#EE8800"
-"keyword.control.if.then.shell" = "#EE8800"
-"keyword.control.if.elif.shell" = "#EE8800"
-"keyword.control.if.else.shell" = "#EE8800"
-"keyword.control.if.end.shell" = "#EE8800"
+"keyword.control.if.begin.shell" = "#EEC082"
+"keyword.control.if.then.shell" = "#EEC082"
+"keyword.control.if.elif.shell" = "#EEC082"
+"keyword.control.if.else.shell" = "#EEC082"
+"keyword.control.if.end.shell" = "#EEC082"
 
-"keyword.control.for.shell" = "#EE8800"
-"keyword.control.foreach.shell" = "#EE8800"
-"keyword.control.in.shell" = "#EE8800"
+"keyword.control.for.shell" = "#EEC082"
+"keyword.control.foreach.shell" = "#EEC082"
+"keyword.control.in.shell" = "#EEC082"
 
-"keyword.control.while.shell" = "#EE8800"
-"keyword.control.until.shell" = "#EE8800"
-"keyword.control.repeat.shell" = "#EE8800"
+"keyword.control.while.shell" = "#EEC082"
+"keyword.control.until.shell" = "#EEC082"
+"keyword.control.repeat.shell" = "#EEC082"
 
-"keyword.control.do.shell" = "#EE8800"
-"keyword.control.done.shell" = "#EE8800"
+"keyword.control.do.shell" = "#EEC082"
+"keyword.control.done.shell" = "#EEC082"
 
-"keyword.control.case.begin.shell" = "#EE8800"
-"keyword.control.case.end.shell" = "#EE8800"
-"keyword.control.case.in.shell" = "#EE8800"
-"keyword.control.case.item.shell" = "#EE8800"
+"keyword.control.case.begin.shell" = "#EEC082"
+"keyword.control.case.end.shell" = "#EEC082"
+"keyword.control.case.in.shell" = "#EEC082"
+"keyword.control.case.item.shell" = "#EEC082"
 
-"keyword.control.select.shell" = "#EE8800"
+"keyword.control.select.shell" = "#EEC082"
 
-"keyword.control.flow.break.shell" = "#EE8800"
-"keyword.control.flow.continue.shell" = "#EE8800"
-"keyword.control.flow.nocorrect.shell" = "#EE8800"
-"keyword.control.flow.time.shell" = "#EE8800"
+"keyword.control.flow.break.shell" = "#EEC082"
+"keyword.control.flow.continue.shell" = "#EEC082"
+"keyword.control.flow.nocorrect.shell" = "#EEC082"
+"keyword.control.flow.time.shell" = "#EEC082"
 
 # ------------------------------------------------------------
 # Operators
@@ -278,7 +280,7 @@
 "dynamic.callable.missing" = "#ff996a"
 
 "dynamic.callable.alias" = "#ffa552"
-"dynamic.callable.builtin" = "#AA8130"
+"dynamic.callable.builtin" = "#DAC6A4"
 "dynamic.callable.command" = "#ff996a"
 "dynamic.callable.function" = "#ff996a"
 
