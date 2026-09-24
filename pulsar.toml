@@ -1,5 +1,3 @@
-#AA8130
-
 # ============================================================
 # Pulsar — zsh-patina
 # ============================================================
@@ -280,7 +278,7 @@
 "dynamic.callable.missing" = "#ff996a"
 
 "dynamic.callable.alias" = "#ffa552"
-"dynamic.callable.builtin" = "#DAC6A4"
+"dynamic.callable.builtin" = "#FFA552"
 "dynamic.callable.command" = "#ff996a"
 "dynamic.callable.function" = "#ff996a"
 
