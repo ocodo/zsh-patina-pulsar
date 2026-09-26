@@ -254,7 +254,7 @@
 # Regex
 # ------------------------------------------------------------
 
-"meta.regexp.shell" = "#ff996a"
+"meta.regexp.shell" = "#AA793a"
 
 "keyword.control.regexp.set.begin.shell" = "#ffa552"
 "keyword.control.regexp.set.end.shell" = "#ffa552"
@@ -263,12 +263,12 @@
 # Invalid syntax
 # ------------------------------------------------------------
 
-"invalid.illegal" = "#ff996a"
+"invalid.illegal" = "#ff4400"
 
-"invalid.illegal.extraneous-spaces-after-line-continuation.shell" = "#ff996a"
-"invalid.illegal.no-spaces-allowed-after-heredoc-token.shell" = "#ff996a"
-"invalid.illegal.not-a-hex-character.shell" = "#ff996a"
-"invalid.illegal.not-an-octal-character.shell" = "#ff996a"
+"invalid.illegal.extraneous-spaces-after-line-continuation.shell" = "#ff6600"
+"invalid.illegal.no-spaces-allowed-after-heredoc-token.shell" = "#ff6600"
+"invalid.illegal.not-a-hex-character.shell" = "#ff6600"
+"invalid.illegal.not-an-octal-character.shell" = "#ff6600"
 
 # ------------------------------------------------------------
 # Dynamic highlighting
